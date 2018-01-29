@@ -38,7 +38,7 @@ EOF
 
 
 cat > $secpath <<secrect
-root:Art123@#$
+root:123456
 secrect
 
 cat > /etc/xinetd.d/rsync <<EOF
